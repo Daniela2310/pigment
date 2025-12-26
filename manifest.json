@@ -1,20 +1,16 @@
 {
-  "name": "PigmentGym Official",
+  "name": "PigmentGym Official Store",
   "short_name": "PigmentGym",
+  "description": "Premium Fitness Gear & Apparel",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#ccff00",
+  "background_color": "#051212",
+  "theme_color": "#00e5ff",
   "orientation": "portrait",
   "icons": [
     {
       "src": "logo-pigment.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "logo-pigment-512.png",
-      "sizes": "512x512",
+      "sizes": "320x320",
       "type": "image/png"
     }
   ]
